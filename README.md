@@ -1,0 +1,1 @@
+This is a repository where Jiho uploads her steps of preparing coding test to get a job.
